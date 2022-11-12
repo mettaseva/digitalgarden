@@ -17,7 +17,7 @@
 	- AWeber?
 - Test recording
 - Test slides
-- Colorize graph view?
+- Colorize graph view? <- <font color="#ff0000">Why does it keep disappearing?</font>
 
 ---
 
@@ -38,14 +38,14 @@
 ---
 
 #### Digital Garden Publishing Questions
-- How can I get my Dayspring theme to display publicly?
+- How can I get my Dayspring theme to display publicly? < <span style="background:#fff88f">Reply pending</span>
 - Is there a way to UNpublish files without <u>deleting</u> them from the Vault?
 - No embeds for YouTube videos? Substack subscribe forms? <- <font color="#ff0000">Test first</font>
-- Any place to view themes?
+- Any place to view all of the themes?
 - Where/how to access/copy heading links?
 - Where/how to customize theme font?
 - Where does the publish flag display?
-- See feature requests in TBMain
+- See feature requests in TBMain < <span style="background:#fff88f">Reply pending</span>
 
 ---
 
@@ -55,6 +55,7 @@
 - Set-up default workspace?
 - Review/update current plugin list <- <font color="#ff0000">Compare with desktop installation</font>
 	- **[Floating TOC]()**
+	- Prettify arrows
 	- Install outliner? (drag/drop)
 	- Checkboxes?
 	- Tasks?
