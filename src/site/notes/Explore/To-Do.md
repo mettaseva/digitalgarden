@@ -12,7 +12,14 @@
 - Graph View: Test display options (colors, size, excluding tags, etc.)
 - Display TOC in desktop?
 - Test embeds
+	- YouTube
+	- Vimeo
+	- Adilo
+	- Ko-fi
+	- Substack
+	- AWeber?
 - Test recording
+- Test slides
 
 ---
 
