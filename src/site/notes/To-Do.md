@@ -15,7 +15,7 @@
 ---
 
 #### Publish Questions
-- White Theme
+- White Theme <- <font color="#ff0000">Where to view themes?</font>
 - Sliding panels?
 - Hide frontmatter?
 - TOC?
