@@ -3,5 +3,5 @@
 ---
 
 Let's start at the very beginning . . . .
-- [[To-Do\|To-Do]]
-- [[Formatting Tests\|Formatting Tests]]
+- [[Explore/To-Do\|To-Do]]
+- [[Explore/Formatting Tests\|Formatting Tests]]
