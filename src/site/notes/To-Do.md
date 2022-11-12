@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/to-do/"}
 ---
 
-**To Do Now**
+#### To Do Now
 - Test reordering of files/folders
 - Reduce font size in interface?
 - Table tests?
@@ -14,7 +14,7 @@
 
 ---
 
-**Publish Questions**
+#### Publish Questions
 - White Theme
 - Sliding panels?
 - Hide frontmatter?
@@ -24,7 +24,7 @@
 
 ---
 
-**To Do Soon**
+#### To Do Soon
 - Change accent color?
 - How to remove shadow from tab stacks?
 - Set-up default workspace?
@@ -32,12 +32,11 @@
 	- [Floating TOC]()
 	- Install outliner? (drag/drop)
 	- Checkboxes?
-- 
 	- Tasks?
 
 ---
 
-**To Do Later**
+#### To Do Later
 - Merge files?
 - Frontmatter | YAML?
 - Ask about FULL search in published view
