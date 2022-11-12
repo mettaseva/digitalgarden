@@ -25,7 +25,7 @@
 ---
 
 ##### To Do: Publish
-- Custom font: Inter
+- Custom font: Inter <- <font color="#ff0000">Where/how to customize?</font>
 - Add favicon
 
 ---
