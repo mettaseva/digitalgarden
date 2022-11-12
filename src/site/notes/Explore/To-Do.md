@@ -29,7 +29,6 @@
 - Add favicon
 - Transclusions
 - Note previews
-- Testing Dayspring
 
 ---
 
