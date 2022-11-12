@@ -30,7 +30,7 @@
 - How to remove shadow from tab stacks?
 - Set-up default workspace?
 - Review/update current plugin list <- <font color="#ff0000">Compare with desktop installation</font>
-	- [Floating TOC]()
+	- **[Floating TOC]()**
 	- Install outliner? (drag/drop)
 	- Checkboxes?
 	- Tasks?
