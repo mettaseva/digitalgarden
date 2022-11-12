@@ -21,7 +21,9 @@
 - Custom sort order for files/folders is NOT displaying?
 - No embeds for YouTube videos? Substack subscribe forms?
 - White Theme <- <font color="#ff0000">Where to view themes?</font>
-- Plans to add sliding panels?
+- Plans to add the following features:
+	- Sliding panels?
+	- Collapsible headings?
 - TOC?
 - Search?
 - Where does the publish flag display?
@@ -44,6 +46,6 @@
 - Merge files?
 - Frontmatter | YAML?
 - Ask about FULL search in published view
-- Free publishing options?
+- Other free publishing options?
 - Sync vaults with desktop? <- <font color="#ff0000">Cost?</font>
 
