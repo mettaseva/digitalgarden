@@ -29,6 +29,14 @@
 - Add favicon
 - Transclusions
 - Note previews
+- Add custom domain?
+
+---
+
+##### Netlify Publishing Questions
+- Cost for Domain?
+- Maximum capacity?
+- Benefits of upgrading?
 
 ---
 
