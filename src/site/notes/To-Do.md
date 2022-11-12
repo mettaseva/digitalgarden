@@ -18,15 +18,10 @@
 
 #### Digital Garden Publish Questions
 - Is there a way to UNpublish files without <u>deleting</u> them from the Vault?
-- Custom sort order for files/folders is NOT displaying?
-- No embeds for YouTube videos? Substack subscribe forms?
+- No embeds for YouTube videos? Substack subscribe forms? <font color="#ff0000">< Test first</font>
 - White Theme <- <font color="#ff0000">Where to view themes?</font>
-- Plans to add the following features:
-	- TOC?
-	- Sliding panels?
-	- Collapsible headings?
-	- Highlighted search terms?
 - Where does the publish flag display?
+-  See feature requests in TBMain
 
 ---
 
