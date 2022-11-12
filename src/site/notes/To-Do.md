@@ -18,7 +18,8 @@
 
 #### Publish Questions
 - Is there a way to UNpublish files without deleting them from the Vault?
-- No embed videos? Substack subscribe forms?
+- Custom sort order for files/folders is NOT displaying?
+- No embeds for YouTube videos? Substack subscribe forms?
 - White Theme <- <font color="#ff0000">Where to view themes?</font>
 - Plans to add sliding panels?
 - TOC?
