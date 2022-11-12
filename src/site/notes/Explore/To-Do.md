@@ -58,6 +58,14 @@
 	- Install outliner? (drag/drop)
 	- Checkboxes?
 	- Tasks?
+	- Random Plugin <- Control folder
+
+---
+
+Set-up
+- Import Guide Notes?
+- Create Daily notes?
+- In Box?
 
 ---
 
