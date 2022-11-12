@@ -16,7 +16,7 @@
 
 ---
 
-#### Publish Questions
+#### Digital Garden Publish Questions
 - Is there a way to UNpublish files without deleting them from the Vault?
 - Custom sort order for files/folders is NOT displaying?
 - No embeds for YouTube videos? Substack subscribe forms?
