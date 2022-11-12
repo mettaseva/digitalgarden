@@ -27,6 +27,9 @@
 ##### To Do: Publish
 - Custom font: Inter <- <font color="#ff0000">Where/how to customize?</font>
 - Add favicon
+- Transclusions
+- Note previews
+- Testing Dayspring
 
 ---
 
@@ -34,6 +37,7 @@
 - Is there a way to UNpublish files without <u>deleting</u> them from the Vault?
 - No embeds for YouTube videos? Substack subscribe forms? <- <font color="#ff0000">Test first</font>
 - Any place to view themes?
+- Where/how to access/copy heading links?
 - Where/how to customize theme font?
 - Where does the publish flag display?
 - See feature requests in TBMain
