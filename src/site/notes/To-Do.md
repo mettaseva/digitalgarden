@@ -3,8 +3,10 @@
 ---
 
 #### To Do Now
-- Test reordering of files/folders
-- Reduce font size in interface?
+- **Reordering Plugin**
+	- Why are folders in <u>reverse</u> alphabetical order?
+- Reduce font size in desktop interface?
+- Hide frontmatter?
 - Table tests?
 - Review Quick Switcher
 - Graph View: Test display options (colors, size, excluding tags, etc.)
@@ -15,12 +17,13 @@
 ---
 
 #### Publish Questions
+- Is there a way to UNpublish files without deleting them from the Vault?
+- No embed videos? Substack subscribe forms?
 - White Theme <- <font color="#ff0000">Where to view themes?</font>
-- Sliding panels?
-- Hide frontmatter?
+- Plans to add sliding panels?
 - TOC?
 - Search?
-- Where does the public flag display?
+- Where does the publish flag display?
 
 ---
 
