@@ -22,6 +22,8 @@
 - Test slides
 - Colorize graph view?
 
+---
+
 ##### To Do: Publish
 - Custom font: Inter
 - Add favicon
