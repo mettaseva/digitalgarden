@@ -3,7 +3,6 @@
 ---
 
 **To Do Now**
-- <span style="background:#fff88f">Share plugin link with Gary</span>
 - Test reordering of files/folders
 - Reduce font size in interface?
 - Table tests?
@@ -13,7 +12,9 @@
 - Test embeds
 - Test recording
 
-##### Publish Questions
+---
+
+**Publish Questions**
 - White Theme
 - Sliding panels?
 - Hide frontmatter?
