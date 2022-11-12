@@ -3,9 +3,6 @@
 ---
 
 #### To Do Now
-- **Reordering Plugin**
-	- Why are folders in <u>reverse</u> alphabetical order?
-- Reduce font size in desktop interface?
 - Hide frontmatter?
 - Table tests? <- <font color="#ff0000">Best table plugin?</font>
 - Review Quick Switcher
