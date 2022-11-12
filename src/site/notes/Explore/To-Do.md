@@ -7,7 +7,7 @@
 	- Why are folders in <u>reverse</u> alphabetical order?
 - Reduce font size in desktop interface?
 - Hide frontmatter?
-- Table tests?
+- Table tests? <- <font color="#ff0000">Best table plugin?</font>
 - Review Quick Switcher
 - Graph View: Test display options (colors, size, excluding tags, etc.)
 - Display TOC in desktop? <- Install floating TOC plugin?
@@ -33,6 +33,7 @@
 ---
 
 #### Digital Garden Publishing Questions
+- How can I get my Dayspring theme to display publicly?
 - Is there a way to UNpublish files without <u>deleting</u> them from the Vault?
 - No embeds for YouTube videos? Substack subscribe forms? <- <font color="#ff0000">Test first</font>
 - Any place to view themes?
