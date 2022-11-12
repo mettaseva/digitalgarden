@@ -10,7 +10,7 @@
 - Table tests?
 - Review Quick Switcher
 - Graph View: Test display options (colors, size, excluding tags, etc.)
-- Display TOC in desktop?
+- Display TOC in desktop? <- Install floating TOC plugin?
 - Test embeds
 	- YouTube
 	- Vimeo
@@ -20,21 +20,27 @@
 	- AWeber?
 - Test recording
 - Test slides
+- Colorize graph view?
+
+##### To Do: Publish
+- Custom font: Inter
+- Add favicon
 
 ---
 
-#### Digital Garden Publish Questions
+#### Digital Garden Publishing Questions
 - Is there a way to UNpublish files without <u>deleting</u> them from the Vault?
-- No embeds for YouTube videos? Substack subscribe forms? <font color="#ff0000">< Test first</font>
-- White Theme <- <font color="#ff0000">Where to view themes?</font>
+- No embeds for YouTube videos? Substack subscribe forms? <- <font color="#ff0000">Test first</font>
+- Any place to view themes?
+- Where/how to customize theme font?
 - Where does the publish flag display?
--  See feature requests in TBMain
+- See feature requests in TBMain
 
 ---
 
 #### To Do Soon
 - Change accent color?
-- How to remove shadow from tab stacks?
+- Remove shadow from tab stacks?
 - Set-up default workspace?
 - Review/update current plugin list <- <font color="#ff0000">Compare with desktop installation</font>
 	- **[Floating TOC]()**
