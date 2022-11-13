@@ -9,6 +9,7 @@ Welcome to my digital garden!
 Let's start at the very beginning . . . .
 - [[Explore/To-Do\|To-Do]]
 - [[Explore/Formatting Tests\|Formatting Tests]]
+- [[Explore/Video Embed Tests\|Video Embed Tests]]
 - - - - - - 
 This is a new publishing test
 #TAG-TEST
