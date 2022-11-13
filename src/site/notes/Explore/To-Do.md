@@ -27,6 +27,7 @@
 - Transclusions
 - Note previews
 - Add custom domain?
+- Turn inline titles back on?
 
 ---
 
@@ -39,8 +40,7 @@
 
 #### Digital Garden Publishing Questions
 - **Bugs**
-	- How can I get Dayspring theme to display publicly? < <span style="background:#fff88f">Reply pending</span>
-	- Interactive graph works well in Edge browser, but is slow or non-functional in my Brave browser. Any thoughts/suggestions
+	- Interactive graph works well in Edge browser, but is slow or non-functional in my Brave browser. < <span style="background:#fff88f">Reply pending</span>
 - Is there a way to UNpublish files without <u>deleting</u> them from the Vault?
 - No embeds for YouTube videos? Substack subscribe forms? <- <font color="#ff0000">Test first</font>
 - Any place to view all of the themes?
@@ -75,7 +75,6 @@
 #### To Do Later
 - Merge files?
 - Frontmatter | YAML?
-- Ask about FULL search in published view
 - Other free publishing options?
 - Sync vaults with desktop? <- <font color="#ff0000">Cost?</font>
 
