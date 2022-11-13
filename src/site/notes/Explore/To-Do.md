@@ -27,6 +27,7 @@
 - Transclusions
 - Note previews
 - Add custom domain?
+- Test TOC plugin? -> See links in TBMain
 - Turn inline titles back on?
 
 ---
@@ -69,6 +70,8 @@
 - Import Guide Notes?
 - Create Daily notes?
 - In Box?
+- Add Plugins?
+	- Symbols Prettifier
 
 ---
 
