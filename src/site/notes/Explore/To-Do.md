@@ -10,9 +10,7 @@
 - Test anchor links > See bug report
 - Test recording
 - Test slides
-- Graph View <- <font color="#ff0000">Why does it keep disappearing in the desktop?</font>
-	- Test display options (colors, size, excluding tags, etc.)
-
+- Test footnotes
 ---
 
 ##### To Do: Publish
@@ -63,6 +61,8 @@
 ---
 
 ##### To Do Later
+- - Graph View <- <font color="#ff0000">Why does it keep disappearing in the desktop?</font>
+	- Test display options (colors, size, excluding tags, etc.)
 - Merge files?
 - Frontmatter | YAML?
 - Sync vaults with desktop? <- <font color="#ff0000">Cost?</font>
