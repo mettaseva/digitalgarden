@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explore/formatting-tests/"}
+{"dg-publish":true,"permalink":"/explore/formatting-tests/","dgPassFrontmatter":true}
 ---
 
 # Header 1
