@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"TAG-TEST","permalink":"/explore/to-do/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/explore/to-do/"}
 ---
 
 #### To Do Now
@@ -18,11 +18,10 @@
 ---
 
 ##### To Do: Publish
-- Add favicon < <span style="background:#fff88f"> Pending bug fix</span>
 - Transclusions
-- Add custom domain?
 - Test TOC plugin? -> See links in TBMain
-- Turn inline titles back on?
+- Add custom domain?
+- Turn inline page titles back on?
 
 ---
 
@@ -36,8 +35,9 @@
 #### Digital Garden Publishing Questions
 - **Bugs**
 	- Interactive graph works well in Edge browser, but is slow or non-functional in my Brave browser. < <span style="background:#fff88f">Reply pending</span>
-- Is there a way to UNpublish files without <u>deleting</u> them from the Vault?
-- Where does the publish flag display?
+	- Add favicon < <span style="background:#fff88f"> Pending bug fix</span>
+- Is there a way to UNpublish files without <u>deleting</u> them from the Vault? < <span style="background:#fff88f">Reply pending</span>
+- Where does the publish flag display? < <span style="background:#fff88f">Reply pending</span>
 
 ---
 
