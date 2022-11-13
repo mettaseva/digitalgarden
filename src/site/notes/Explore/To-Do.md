@@ -17,7 +17,6 @@
 
 ##### To Do: Publish
 - Finish [[Explore/Embed Tests\|Embed Tests]] 
-- [External Link Test](https://mettaonline.net)
 - Transclusions
 - Test TOC plugin? -> See links in TBMain
 - Add custom domain?
