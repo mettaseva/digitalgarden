@@ -51,7 +51,7 @@
 
 ##### Planning & Set-up
 - Tag workaround? < <font color="#ff0000">Test first</font>
-- Keep my private notes separate for vault sharing?
+- Keep my private notes separate for vault sharing? < <font color="#ff0000">Multiple Instances?</font>
 	- Import Guide Notes?
 	- Create Daily notes? 
 	- Tasks/Checkboxes?
