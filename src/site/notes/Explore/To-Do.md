@@ -13,22 +13,12 @@
 - Test recording
 - Test slides
 - Test footnotes
+- Review/update current plugin list <- <font color="#ff0000">Compare with desktop installation</font>
+		- **[Floating TOC]()**
+		- Symbols Prettifier
+		- Install drag/drop outliner?
+		- Checkboxes? > Tasks?
 - Test Workflowy imports
-
----
-
-##### To Do: Publish
-- Finish [[Explore/Embed Tests\|Embed Tests]] 
-- Check display <u>without</u> inline titles
-- Test TOC plugin? -> See links in TBMain
-- Add custom domain? < <font color="#ff0000">Rename Site?</font>
-
----
-
-##### Netlify Publishing Questions
-- Cost for Domain?
-- Maximum capacity?
-- Benefits of upgrading?
 
 ---
 
@@ -40,24 +30,8 @@
 	- Is there a way to UNpublish files without <u>deleting</u> them from the Vault? < <span style="background:#fff88f">Reply pending</span>
 	- Where does the publish flag display? < <span style="background:#fff88f">Reply pending</span>
 	- Figure out how tags work > See TBMain - #TAG-TEST 
+- **To Do**
+	- Finish [[Explore/Embed Tests\|Embed Tests]] 
+	- Check page display <u>without</u> inline titles
+	- Test TOC plugin? -> See links in TBMain
 
----
-
-##### To Do Soon
-- Set-up default workspace?
-- Sync vaults with desktop? <- <font color="#ff0000">Cost?</font>
-- Review/update current plugin list <- <font color="#ff0000">Compare with desktop installation</font>
-	- **[Floating TOC]()**
-	- Symbols Prettifier
-	- Install drag/drop outliner?
-	- Checkboxes? > Tasks?
-
----
-
-##### To Do Later
-- Graph View <- <font color="#ff0000">Why does it keep disappearing in the desktop?</font>
-	- Test display options (colors, size, excluding tags, etc.)
-- Linked tabs?
-- Merge files?
-- Frontmatter | YAML?
-- Random plugin to control folder location
