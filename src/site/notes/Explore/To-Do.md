@@ -13,7 +13,8 @@
 - Finish [[Explore/Embed Tests\|Embed Tests]]
 - Test recording
 - Test slides
-- Colorize graph view? <- <font color="#ff0000">Why does it keep disappearing?</font>
+- Graph View <- <font color="#ff0000">Why does it keep disappearing in the desktop?</font>
+	- Test display options (colors, size, excluding tags, etc.)
 
 ---
 
@@ -26,7 +27,7 @@
 ---
 
 ##### Netlify Publishing Questions
-- Cost for Domain?
+- Cost for Domain? < Rename site?
 - Maximum capacity?
 - Benefits of upgrading?
 
@@ -42,11 +43,10 @@
 ---
 
 ##### To Do Soon
-- Remove shadow from tab stacks?
 - Set-up default workspace?
 - Review/update current plugin list <- <font color="#ff0000">Compare with desktop installation</font>
 	- **[Floating TOC]()**
-	- Prettify arrows
+	- Symbols Prettifier
 	- Install outliner? (drag/drop)
 	- Checkboxes?
 	- Tasks?
@@ -54,25 +54,19 @@
 
 ---
 
-##### Set-up
-- Import Guide Notes?
-- Create Daily notes?
-- In Box?
-- Add Plugins?
-	- Symbols Prettifier
+##### Planning & Set-up
+- Tag workaround? < <font color="#ff0000">Test first</font>
+- Keep my private notes separate from main library vault?
+	- Import Guide Notes?
+	- Create Daily notes? 
+	- Tasks/Checkboxes?
+	- In Box? > Admin In Box for Library?
+- 
 
 ---
 
 ##### To Do Later
 - Merge files?
 - Frontmatter | YAML?
-- Other free publishing options?
 - Sync vaults with desktop? <- <font color="#ff0000">Cost?</font>
 - Any place to view all of the Digital Publish themes?
-
----
-
-##### Pending Feature Requests
-- Note previews
-- See other feature requests in TBMain
-
