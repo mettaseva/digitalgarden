@@ -32,7 +32,7 @@
 
 ---
 
-#### Digital Garden Publishing Questions
+##### Digital Garden Publishing Questions
 - **Bugs**
 	- Interactive graph works well in Edge browser, but is slow or non-functional in my Brave browser. < <span style="background:#fff88f">Reply pending</span>
 	- Add favicon < <span style="background:#fff88f"> Pending bug fix</span>
@@ -41,7 +41,7 @@
 
 ---
 
-#### To Do Soon
+##### To Do Soon
 - Remove shadow from tab stacks?
 - Set-up default workspace?
 - Review/update current plugin list <- <font color="#ff0000">Compare with desktop installation</font>
@@ -63,7 +63,7 @@
 
 ---
 
-#### To Do Later
+##### To Do Later
 - Merge files?
 - Frontmatter | YAML?
 - Other free publishing options?
