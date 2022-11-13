@@ -6,11 +6,14 @@
 - Hide frontmatter?
 - Table tests? <- <font color="#ff0000">Best table plugin?</font>
 - Review Quick Switcher
-- Display TOC in desktop? <- Install floating TOC plugin?
-- Test anchor links > See bug report
+- Display TOC in desktop?
+	- Install floating TOC plugin?
+	- Or see alternative for published TOC?
+- Test anchor links > <font color="#ff0000">See bug report</font>
 - Test recording
 - Test slides
 - Test footnotes
+
 ---
 
 ##### To Do: Publish
@@ -39,32 +42,19 @@
 
 ##### To Do Soon
 - Set-up default workspace?
+- Sync vaults with desktop? <- <font color="#ff0000">Cost?</font>
 - Review/update current plugin list <- <font color="#ff0000">Compare with desktop installation</font>
 	- **[Floating TOC]()**
 	- Symbols Prettifier
-	- Install outliner? (drag/drop)
-	- Checkboxes?
-	- Tasks?
-	- Random Plugin <- Control folder location
-
----
-
-##### Planning & Set-up
-- Tag workaround? < <font color="#ff0000">Test first</font>
-- Keep my private notes separate for vault sharing? < <font color="#ff0000">Multiple Instances?</font>
-	- Import Guide Notes?
-	- Create Daily notes? 
-	- Tasks/Checkboxes?
-	- In Box? > Admin In Box for Library?
-- 
+	- Install drag/drop outliner?
+	- Checkboxes? > Tasks?
 
 ---
 
 ##### To Do Later
-- - Graph View <- <font color="#ff0000">Why does it keep disappearing in the desktop?</font>
+- Graph View <- <font color="#ff0000">Why does it keep disappearing in the desktop?</font>
 	- Test display options (colors, size, excluding tags, etc.)
 - Linked tabs?
 - Merge files?
 - Frontmatter | YAML?
-- Sync vaults with desktop? <- <font color="#ff0000">Cost?</font>
-- Turn in-line Titles back on?
+- Random plugin to control folder location
