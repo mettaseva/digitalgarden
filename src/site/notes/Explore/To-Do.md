@@ -4,6 +4,9 @@
 
 #### To Do Now
 - Review Quick Switcher
+- Review Source Mode
+- Responsive video width?
+- Option to lock note editing?
 - Hide frontmatter?
 - Table tests? <- <font color="#ff0000">Best table plugin?</font>
 - Test anchor links > <font color="#ff0000">See bug report</font>
@@ -14,7 +17,7 @@
 		- **[Floating TOC]()** =OR= See alternative for published TOC? (TBMain)
 		- Symbols Prettifier
 		- Install collapsible drag/drop outliner?
-		- Checkboxes? > Tasks?
+		- Checkboxes and/or Tasks?
 
 ---
 
