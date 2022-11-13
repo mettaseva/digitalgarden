@@ -3,22 +3,18 @@
 ---
 
 #### To Do Now
+- Review Quick Switcher
 - Hide frontmatter?
 - Table tests? <- <font color="#ff0000">Best table plugin?</font>
-- Review Quick Switcher
-- Display TOC in desktop?
-	- Install floating TOC plugin?
-	- Or see alternative for published TOC?
 - Test anchor links > <font color="#ff0000">See bug report</font>
 - Test recording
 - Test slides
 - Test footnotes
 - Review/update current plugin list <- <font color="#ff0000">Compare with desktop installation</font>
-		- **[Floating TOC]()**
+		- **[Floating TOC]()** =OR= See alternative for published TOC? (TBMain)
 		- Symbols Prettifier
-		- Install drag/drop outliner?
+		- Install collapsible drag/drop outliner?
 		- Checkboxes? > Tasks?
-- Test Workflowy imports
 
 ---
 
