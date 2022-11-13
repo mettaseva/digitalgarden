@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/explore/to-do/"}
+{"dg-publish":true,"permalink":"/explore/to-do/","dgPassFrontmatter":true}
 ---
 
 #### To Do Now
 - Hide frontmatter?
+- Figure out how tags work > See TBMain
 - Table tests? <- <font color="#ff0000">Best table plugin?</font>
 - Review Quick Switcher
 - Graph View: Test display options (colors, size, excluding tags, etc.)
