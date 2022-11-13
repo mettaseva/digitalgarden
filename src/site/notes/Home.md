@@ -11,6 +11,3 @@ Let's start at the very beginning . . . .
 - [[Explore/Formatting Tests\|Formatting Tests]]
 - [[Explore/Embed Tests\|Embed Tests]]
 - - - - - - 
-
-
-
