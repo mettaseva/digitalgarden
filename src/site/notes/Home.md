@@ -11,7 +11,6 @@ Let's start at the very beginning . . . .
 - [[Explore/Formatting Tests\|Formatting Tests]]
 - [[Explore/Embed Tests\|Embed Tests]]
 - - - - - - 
-This is a new publishing test
-#TAG-TEST
+
 
 
