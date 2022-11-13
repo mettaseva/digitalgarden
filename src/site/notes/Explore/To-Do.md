@@ -9,13 +9,8 @@
 - Review Quick Switcher
 - Graph View: Test display options (colors, size, excluding tags, etc.)
 - Display TOC in desktop? <- Install floating TOC plugin?
-- Test embeds
-	- YouTube
-	- Vimeo
-	- Adilo
-	- Ko-fi
-	- Substack
-	- AWeber?
+- Test anchor links > See bug report
+- Finish [[Explore/Embed Tests\|Embed Tests]]
 - Test recording
 - Test slides
 - Colorize graph view? <- <font color="#ff0000">Why does it keep disappearing?</font>
@@ -23,10 +18,8 @@
 ---
 
 ##### To Do: Publish
-- Custom font: Inter <- <font color="#ff0000">Where/how to customize?</font>
-- Add favicon
+- Add favicon < <span style="background:#fff88f"> Pending bug fix</span>
 - Transclusions
-- Note previews
 - Add custom domain?
 - Test TOC plugin? -> See links in TBMain
 - Turn inline titles back on?
@@ -44,17 +37,11 @@
 - **Bugs**
 	- Interactive graph works well in Edge browser, but is slow or non-functional in my Brave browser. < <span style="background:#fff88f">Reply pending</span>
 - Is there a way to UNpublish files without <u>deleting</u> them from the Vault?
-- No embeds for YouTube videos? Substack subscribe forms? <- <font color="#ff0000">Test first</font>
-- Any place to view all of the themes?
-- Where/how to access/copy heading links?
-- Where/how to customize theme font?
 - Where does the publish flag display?
-- See feature requests in TBMain < <span style="background:#fff88f">Reply pending</span>
 
 ---
 
 #### To Do Soon
-- Change accent color?
 - Remove shadow from tab stacks?
 - Set-up default workspace?
 - Review/update current plugin list <- <font color="#ff0000">Compare with desktop installation</font>
@@ -81,4 +68,11 @@
 - Frontmatter | YAML?
 - Other free publishing options?
 - Sync vaults with desktop? <- <font color="#ff0000">Cost?</font>
+- Any place to view all of the Digital Publish themes?
+
+---
+
+##### Pending Feature Requests
+- Note previews
+- See other feature requests in TBMain
 
