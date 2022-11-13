@@ -18,6 +18,7 @@
 
 ##### To Do: Publish
 - Finish [[Explore/Embed Tests\|Embed Tests]] 
+- Check display <u>without</u> inline titles
 - Test TOC plugin? -> See links in TBMain
 - Add custom domain? < <font color="#ff0000">Rename Site?</font>
 
@@ -30,13 +31,14 @@
 
 ---
 
-##### Digital Garden Publishing Questions
+##### Digital Garden Publishing
 - **Bugs**
 	- Add favicon < <span style="background:#fff88f"> Pending bug fix</span>
 	- Interactive graph works well in Edge browser, but is slow or non-functional in my Brave browser. < <span style="background:#fff88f">Reply pending</span>
-- Is there a way to UNpublish files without <u>deleting</u> them from the Vault? < <span style="background:#fff88f">Reply pending</span>
-- Where does the publish flag display? < <span style="background:#fff88f">Reply pending</span>
-- Figure out how tags work > See TBMain - #TAG-TEST 
+- **Questions**
+	- Is there a way to UNpublish files without <u>deleting</u> them from the Vault? < <span style="background:#fff88f">Reply pending</span>
+	- Where does the publish flag display? < <span style="background:#fff88f">Reply pending</span>
+	- Figure out how tags work > See TBMain - #TAG-TEST 
 
 ---
 
