@@ -10,7 +10,7 @@ Let's start at the very beginning . . . .
 - [[Explore/To-Do\|To-Do]]
 - [[Explore/Formatting Tests\|Formatting Tests]]
 - - - - - - 
-This is a publishing test
+This is a new publishing test
 #TAG-TEST
 
 
