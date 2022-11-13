@@ -13,6 +13,7 @@
 - Test recording
 - Test slides
 - Test footnotes
+- Test Workflowy imports
 
 ---
 
