@@ -17,15 +17,13 @@
 
 ##### To Do: Publish
 - Finish [[Explore/Embed Tests\|Embed Tests]] 
-- Transclusions
 - Test TOC plugin? -> See links in TBMain
-- Add custom domain?
-- Turn inline page titles back on?
+- Add custom domain? < <font color="#ff0000">Rename Site?</font>
 
 ---
 
 ##### Netlify Publishing Questions
-- Cost for Domain? < <font color="#ff0000">Rename site?</font>
+- Cost for Domain?
 - Maximum capacity?
 - Benefits of upgrading?
 
@@ -68,4 +66,4 @@
 - Merge files?
 - Frontmatter | YAML?
 - Sync vaults with desktop? <- <font color="#ff0000">Cost?</font>
-- 
+- Turn in-line Titles back on?
