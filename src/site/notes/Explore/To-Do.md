@@ -63,6 +63,7 @@
 ##### To Do Later
 - - Graph View <- <font color="#ff0000">Why does it keep disappearing in the desktop?</font>
 	- Test display options (colors, size, excluding tags, etc.)
+- Linked tabs?
 - Merge files?
 - Frontmatter | YAML?
 - Sync vaults with desktop? <- <font color="#ff0000">Cost?</font>
