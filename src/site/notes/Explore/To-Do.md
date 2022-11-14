@@ -6,7 +6,7 @@
 - <span style="background:#fff88f">TBMain: Track GitHub CSS Change</span>
 - Review Quick Switcher < <font color="#ff0000">Keyboard shortcut?</font>
 - Review Source Mode
-- Responsive video width?
+- Responsive video width? < <font color="#ff0000">Check with Nisha</font>
 - Hide [frontmatter](https://help.obsidian.md/Advanced+topics/YAML+front+matter)? 
 - Table tests? <- <font color="#ff0000">Best table plugin?</font>
 - Test anchor links > <font color="#ff0000">See bug report</font>
