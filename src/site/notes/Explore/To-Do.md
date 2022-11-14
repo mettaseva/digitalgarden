@@ -32,7 +32,3 @@
 	- Check page display <u>without</u> inline titles
 	- Test TOC plugin? -> See links in TBMain
 	- [Figure out how aliases work](https://help.obsidian.md/How+to/Add+aliases+to+note)
-
----
-
-Return [[Home\|Home]]
