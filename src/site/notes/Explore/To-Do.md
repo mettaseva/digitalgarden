@@ -14,7 +14,7 @@
 - Test slides
 - Test footnotes
 - Review/update current plugin list <- <font color="#ff0000">Compare with desktop installation</font>
-		- **[Floating TOC]()** =OR= See alternative for published TOC? (TBMain)
+		- [Floating TOC]() =OR= See alternative for published TOC? (TBMain)
 		- Symbols Prettifier
 		- Install collapsible drag/drop outliner?
 		- Checkboxes and/or Tasks?
