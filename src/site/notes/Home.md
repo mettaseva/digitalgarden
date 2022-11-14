@@ -7,8 +7,8 @@
 Welcome to my digital garden!
 
 Let's start at the very beginning . . . .
-- [[Explore/To-Do\|To-Do]]
+- [[Explore/To-Do\|To-Do]] 
 - [[Explore/Hints & Tips\|Hints & Tips]] 
-- [[Explore/Formatting Tests\|Formatting Tests]]
+- [[Explore/Formatting Tests\|Formatting Tests]] 
 - [[Explore/Embed Tests\|Embed Tests]]
 - - - - - - 
