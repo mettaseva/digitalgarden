@@ -3,10 +3,10 @@
 ---
 
 #### To Do Now
-- Review Quick Switcher
+- <span style="background:#fff88f">TBMain: Track GitHub CSS Change</span>
+- Review Quick Switcher < <font color="#ff0000">Keyboard shortcut?</font>
 - Review Source Mode
 - Responsive video width?
-- Option to lock note editing?
 - Hide frontmatter?
 - Table tests? <- <font color="#ff0000">Best table plugin?</font>
 - Test anchor links > <font color="#ff0000">See bug report</font>
