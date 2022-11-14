@@ -7,7 +7,7 @@
 - Review Quick Switcher < <font color="#ff0000">Keyboard shortcut?</font>
 - Review Source Mode
 - Responsive video width?
-- Hide frontmatter?
+- Hide [frontmatter](https://help.obsidian.md/Advanced+topics/YAML+front+matter)? 
 - Table tests? <- <font color="#ff0000">Best table plugin?</font>
 - Test anchor links > <font color="#ff0000">See bug report</font>
 - Test recording
@@ -28,9 +28,10 @@
 - **Questions**
 	- Is there a way to UNpublish files without <u>deleting</u> them from the Vault? < <span style="background:#fff88f">Reply pending</span>
 	- Where does the publish flag display? < <span style="background:#fff88f">Reply pending</span>
-	- Figure out how tags work > See TBMain - #TAG-TEST 
+	- [Figure out how tags work](https://help.obsidian.md/How+to/Working+with+tags) > See TBMain - #TAG-TEST 
 - **To Do**
 	- Finish [[Explore/Embed Tests\|Embed Tests]] 
 	- Check page display <u>without</u> inline titles
 	- Test TOC plugin? -> See links in TBMain
+	- [Figure out how aliases work](https://help.obsidian.md/How+to/Add+aliases+to+note)
 
