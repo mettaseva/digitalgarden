@@ -26,9 +26,7 @@
 	- Add favicon < <span style="background:#fff88f"> Pending bug fix</span>
 	- Interactive graph works well in Edge browser, but is slow or non-functional in my Brave browser. < <span style="background:#fff88f">Reply pending</span>
 - **Questions**
-	- Is there a way to UNpublish files without <u>deleting</u> them from the Vault? < <span style="background:#fff88f">Reply pending</span>
-	- Where does the publish flag display? < <span style="background:#fff88f">Reply pending</span>
-	- [Figure out how tags work](https://help.obsidian.md/How+to/Working+with+tags) > See TBMain - #TAG-TEST 
+		- [Figure out how tags work](https://help.obsidian.md/How+to/Working+with+tags) > See TBMain - #TAG-TEST 
 - **To Do**
 	- Finish [[Explore/Embed Tests\|Embed Tests]] 
 	- Check page display <u>without</u> inline titles
