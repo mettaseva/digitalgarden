@@ -9,4 +9,4 @@
 
 ##### Digital Garden Publish Hints and Tips
 - Theme changes must be made in 2 locations
-- Find Published Pages: Search "dg-publish"
+- Find all published pages: Search "dg-publish"
