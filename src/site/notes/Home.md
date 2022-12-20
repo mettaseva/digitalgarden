@@ -20,3 +20,4 @@ Let's start at the very beginning . . . .
 #### Header 4
 ##### Header 5
 # Header 1
+Checking now on the new TOC and [[Explore/Formatting Tests\|link previews]]
